@@ -31,7 +31,7 @@ Welcome to the **Full Stack Data Science Repository**! This repository is design
          - Computer Vision
          - NLP 
    - **Module 7**: Big Data and Deployment
-   - 
+     
 ### 2. **Projects**
    - **Mini Projects**: Hands-on exercises to reinforce learning.
      - Example: Logistic Regression with PyCharm
