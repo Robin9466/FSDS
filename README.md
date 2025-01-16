@@ -20,7 +20,7 @@ Welcome to the **Full Stack Data Science Repository**! This repository is design
    - **Module 4**: Data Manipulation (Pandas, Numpy)
    - **Module 5**: Data Visualization (Matplotlib, Seaborn, Plotly)
    - **Module 6**: Exploratory_Data_Analysis (EDA)
-   - **Module 6**: Machine Learning
+   - **Module 7**: Machine Learning
      - Introduction
      - Types
        - Supervised Learning
@@ -31,6 +31,7 @@ Welcome to the **Full Stack Data Science Repository**! This repository is design
          - Computer Vision
          - NLP 
    - **Module 7**: Big Data and Deployment
+   - **Module 8**: Interview Preparation
      
 ### 2. **Projects**
    - **Mini Projects**: Hands-on exercises to reinforce learning.
