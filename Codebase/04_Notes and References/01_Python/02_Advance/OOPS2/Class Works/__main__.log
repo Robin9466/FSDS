@@ -1,0 +1,116 @@
+2023-11-13 17:22:06,660, INFO, All instances of the 234 accessed successfully.
+2023-11-13 17:22:06,660, INFO, All instances of the 456 accessed successfully
+2023-11-13 17:22:06,660, INFO, List(s) from the "main" list
+2023-11-13 17:22:06,660, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 17:23:37,121, INFO, All instances of the 234 accessed successfully.
+2023-11-13 17:23:37,121, INFO, All instances of the 456 accessed successfully
+2023-11-13 17:23:37,121, INFO, List(s) from the "main" list
+2023-11-13 17:23:37,122, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 20:05:22,285, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:05:22,285, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:05:22,285, INFO, List(s) from the "main" list
+2023-11-13 20:05:22,285, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 20:08:15,784, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:08:15,784, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:08:15,784, INFO, List(s) from the "main" list
+2023-11-13 20:08:15,785, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'keys'
+2023-11-13 20:08:33,953, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:08:33,953, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:08:33,953, INFO, List(s) from the "main" list
+2023-11-13 20:08:33,953, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'keys'
+2023-11-13 20:12:12,358, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:12:12,358, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:12:12,358, INFO, List(s) from the "main" list
+2023-11-13 20:12:12,358, ERROR, AttributeError occurred: 'int' object has no attribute 'keys'
+2023-11-13 20:18:25,178, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:18:25,178, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:18:25,178, INFO, List(s) from the "main" list
+2023-11-13 20:18:25,178, INFO, Keys successfully listed to the list_dict_keys
+2023-11-13 20:19:38,060, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:19:38,060, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:19:38,060, INFO, List(s) from the "main" list
+2023-11-13 20:19:38,060, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:48:15,065, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:48:15,065, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:48:15,065, INFO, List(s) from the "main" list
+2023-11-14 17:48:15,066, INFO, Extraction of sudh successfully done
+2023-11-14 17:48:15,066, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:48:15,066, INFO, Values successfully extracted to the list
+2023-11-14 17:48:15,066, INFO, Elements successfully appended
+2023-11-14 17:48:15,066, INFO, Elements successfully inserted to the list
+2023-11-14 17:48:15,066, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:48:15,066, INFO, Concatenation successfully done
+2023-11-14 17:50:00,473, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:50:00,473, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:50:00,473, INFO, List(s) from the "main" list
+2023-11-14 17:50:00,473, INFO, Extraction of sudh successfully done
+2023-11-14 17:50:00,473, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:50:00,473, INFO, Values successfully extracted to the list
+2023-11-14 17:50:00,474, INFO, Elements successfully appended
+2023-11-14 17:50:00,474, INFO, Elements successfully inserted to the list
+2023-11-14 17:50:00,474, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:50:00,474, INFO, Concatenation successfully done
+2023-11-14 17:50:44,165, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:50:44,165, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:50:44,165, INFO, List(s) from the "main" list
+2023-11-14 17:50:44,165, INFO, Extraction of sudh successfully done
+2023-11-14 17:50:44,165, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:50:44,165, INFO, Values successfully extracted to the list
+2023-11-14 17:50:44,165, INFO, Elements successfully appended
+2023-11-14 17:50:44,165, INFO, Elements successfully inserted to the list
+2023-11-14 17:50:44,166, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:50:44,166, INFO, Concatenation successfully done
+2023-11-14 17:51:04,617, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:51:04,617, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:51:04,617, INFO, List(s) from the "main" list
+2023-11-14 17:51:04,617, INFO, Extraction of sudh successfully done
+2023-11-14 17:51:04,617, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:51:04,617, INFO, Values successfully extracted to the list
+2023-11-14 17:51:04,617, INFO, Elements successfully appended
+2023-11-14 17:51:04,617, INFO, Elements successfully inserted to the list
+2023-11-14 17:51:04,617, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:51:04,617, INFO, Concatenation successfully done
+2023-11-14 17:52:12,400, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:52:12,400, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:52:12,400, INFO, List(s) from the "main" list
+2023-11-14 17:52:12,400, INFO, Extraction of sudh successfully done
+2023-11-14 17:52:12,400, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:52:12,400, INFO, Values successfully extracted to the list
+2023-11-14 17:52:12,400, INFO, Elements successfully appended
+2023-11-14 17:52:12,400, INFO, Elements successfully inserted to the list
+2023-11-14 17:52:12,400, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:52:12,400, INFO, Concatenation successfully done
+2023-11-14 17:52:12,400, INFO, Data successfully extracted with the desired jump
+2023-11-14 17:52:12,400, INFO, Data successfully extracted with the desired jump
+2023-11-14 17:52:12,401, INFO, Data successfully reversed without the reverse function
+2023-11-14 17:52:12,401, INFO, Data successfully reversed without the reverse function
+2023-11-14 17:52:12,401, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 17:52:12,401, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 17:52:12,401, INFO, Strings have been converted to lower successfully
+2023-11-14 17:52:12,401, INFO, Strings have been converted to lower successfully
+2023-11-14 17:52:12,401, INFO, Strings have been capitalized successfully
+2023-11-14 17:52:12,401, INFO, Strings have been capitalized successfully
+2023-11-14 17:58:33,614, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:58:33,614, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:58:33,614, INFO, List(s) from the "main" list
+2023-11-14 17:58:33,614, INFO, Extraction of sudh successfully done
+2023-11-14 17:58:33,614, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:58:33,614, INFO, Values successfully extracted to the list
+2023-11-14 17:58:33,614, INFO, Elements successfully appended
+2023-11-14 17:58:33,614, INFO, Elements successfully inserted to the list
+2023-11-14 17:58:33,615, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:58:33,615, INFO, Concatenation successfully done
+2023-11-14 17:58:33,615, INFO, Data successfully extracted with the desired jump
+2023-11-14 17:58:33,615, INFO, Data successfully extracted with the desired jump
+2023-11-14 17:58:33,615, INFO, Data successfully reversed without the reverse function
+2023-11-14 17:58:33,615, INFO, Data successfully reversed without the reverse function
+2023-11-14 17:58:33,615, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 17:58:33,615, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 17:58:33,615, INFO, Strings have been converted to lower successfully
+2023-11-14 17:58:33,615, INFO, Strings have been converted to lower successfully
+2023-11-14 17:58:33,615, INFO, Strings have been capitalized successfully
+2023-11-14 17:58:33,615, INFO, Strings have been capitalized successfully
+2023-11-14 18:04:49,315, INFO, List(s) from the "main" list
+2023-11-14 18:05:43,922, INFO, List(s) from the "main" list
+2023-11-14 18:06:30,056, INFO, List(s) from the "main" list
+2023-11-14 18:06:46,912, INFO, List(s) from the "main" list

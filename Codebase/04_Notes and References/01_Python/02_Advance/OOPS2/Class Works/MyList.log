@@ -1,0 +1,40 @@
+2023-11-14 17:32:34,408, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:32:34,409, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:32:34,409, INFO, List(s) from the "main" list
+2023-11-14 17:32:34,409, INFO, Extraction of sudh successfully done
+2023-11-14 17:32:34,409, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:32:34,409, INFO, Values successfully extracted to the list
+2023-11-14 17:32:34,409, INFO, Elements successfully appended
+2023-11-14 17:32:34,409, INFO, Elements successfully inserted to the list
+2023-11-14 17:32:34,409, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:32:34,409, INFO, Concatenation successfully done
+2023-11-14 17:32:52,503, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:32:52,503, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:32:52,503, INFO, List(s) from the "main" list
+2023-11-14 17:32:52,504, INFO, Extraction of sudh successfully done
+2023-11-14 17:32:52,504, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:32:52,504, INFO, Values successfully extracted to the list
+2023-11-14 17:32:52,504, INFO, Elements successfully appended
+2023-11-14 17:32:52,504, INFO, Elements successfully inserted to the list
+2023-11-14 17:32:52,504, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:32:52,504, INFO, Concatenation successfully done
+2023-11-14 17:34:15,251, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:34:15,251, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:34:15,251, INFO, List(s) from the "main" list
+2023-11-14 17:34:15,251, INFO, Extraction of sudh successfully done
+2023-11-14 17:34:15,251, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:34:15,251, INFO, Values successfully extracted to the list
+2023-11-14 17:34:15,251, INFO, Elements successfully appended
+2023-11-14 17:34:15,251, INFO, Elements successfully inserted to the list
+2023-11-14 17:34:15,252, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:34:15,252, INFO, Concatenation successfully done
+2023-11-14 17:34:25,055, INFO, All instances of the 234 accessed successfully.
+2023-11-14 17:34:25,055, INFO, All instances of the 456 accessed successfully
+2023-11-14 17:34:25,055, INFO, List(s) from the "main" list
+2023-11-14 17:34:25,055, INFO, Extraction of sudh successfully done
+2023-11-14 17:34:25,057, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 17:34:25,057, INFO, Values successfully extracted to the list
+2023-11-14 17:34:25,057, INFO, Elements successfully appended
+2023-11-14 17:34:25,057, INFO, Elements successfully inserted to the list
+2023-11-14 17:34:25,057, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 17:34:25,057, INFO, Concatenation successfully done

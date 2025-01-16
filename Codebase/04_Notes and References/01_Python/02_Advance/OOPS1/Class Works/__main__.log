@@ -1,0 +1,32 @@
+2023-11-13 17:22:06,660, INFO, All instances of the 234 accessed successfully.
+2023-11-13 17:22:06,660, INFO, All instances of the 456 accessed successfully
+2023-11-13 17:22:06,660, INFO, List(s) from the "main" list
+2023-11-13 17:22:06,660, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 17:23:37,121, INFO, All instances of the 234 accessed successfully.
+2023-11-13 17:23:37,121, INFO, All instances of the 456 accessed successfully
+2023-11-13 17:23:37,121, INFO, List(s) from the "main" list
+2023-11-13 17:23:37,122, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 20:05:22,285, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:05:22,285, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:05:22,285, INFO, List(s) from the "main" list
+2023-11-13 20:05:22,285, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'items'
+2023-11-13 20:08:15,784, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:08:15,784, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:08:15,784, INFO, List(s) from the "main" list
+2023-11-13 20:08:15,785, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'keys'
+2023-11-13 20:08:33,953, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:08:33,953, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:08:33,953, INFO, List(s) from the "main" list
+2023-11-13 20:08:33,953, ERROR, Exception occurred in method list_dict_in_list: 'int' object has no attribute 'keys'
+2023-11-13 20:12:12,358, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:12:12,358, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:12:12,358, INFO, List(s) from the "main" list
+2023-11-13 20:12:12,358, ERROR, AttributeError occurred: 'int' object has no attribute 'keys'
+2023-11-13 20:18:25,178, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:18:25,178, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:18:25,178, INFO, List(s) from the "main" list
+2023-11-13 20:18:25,178, INFO, Keys successfully listed to the list_dict_keys
+2023-11-13 20:19:38,060, INFO, All instances of the 234 accessed successfully.
+2023-11-13 20:19:38,060, INFO, All instances of the 456 accessed successfully
+2023-11-13 20:19:38,060, INFO, List(s) from the "main" list
+2023-11-13 20:19:38,060, INFO, Keys successfully listed to the list_dict_keys

@@ -1,0 +1,192 @@
+2023-11-14 18:04:49,313, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:04:49,314, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:04:49,314, INFO, List(s) from the "main" list
+2023-11-14 18:04:49,314, INFO, Extraction of sudh successfully done
+2023-11-14 18:04:49,314, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:04:49,314, INFO, Values successfully extracted to the list
+2023-11-14 18:04:49,314, INFO, Elements successfully appended
+2023-11-14 18:04:49,314, INFO, Elements successfully inserted to the list
+2023-11-14 18:04:49,314, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:04:49,314, INFO, Concatenation successfully done
+2023-11-14 18:04:49,315, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:04:49,315, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:04:49,315, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:04:49,315, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:04:49,315, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:04:49,315, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:04:49,315, INFO, Strings have been converted to lower successfully
+2023-11-14 18:04:49,315, INFO, Strings have been converted to lower successfully
+2023-11-14 18:04:49,315, INFO, Strings have been capitalized successfully
+2023-11-14 18:04:49,315, INFO, Strings have been capitalized successfully
+2023-11-14 18:05:43,921, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:05:43,921, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:05:43,921, INFO, List(s) from the "main" list
+2023-11-14 18:05:43,921, INFO, Extraction of sudh successfully done
+2023-11-14 18:05:43,921, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:05:43,921, INFO, Values successfully extracted to the list
+2023-11-14 18:05:43,921, INFO, Elements successfully appended
+2023-11-14 18:05:43,921, INFO, Elements successfully inserted to the list
+2023-11-14 18:05:43,921, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:05:43,921, INFO, Concatenation successfully done
+2023-11-14 18:05:43,922, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:05:43,922, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:05:43,922, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:05:43,922, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:05:43,922, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:05:43,922, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:05:43,922, INFO, Strings have been converted to lower successfully
+2023-11-14 18:05:43,922, INFO, Strings have been converted to lower successfully
+2023-11-14 18:05:43,922, INFO, Strings have been capitalized successfully
+2023-11-14 18:05:43,922, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:30,054, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:06:30,054, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:06:30,055, INFO, List(s) from the "main" list
+2023-11-14 18:06:30,055, INFO, Extraction of sudh successfully done
+2023-11-14 18:06:30,055, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:06:30,055, INFO, Values successfully extracted to the list
+2023-11-14 18:06:30,055, INFO, Elements successfully appended
+2023-11-14 18:06:30,055, INFO, Elements successfully inserted to the list
+2023-11-14 18:06:30,055, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:06:30,055, INFO, Concatenation successfully done
+2023-11-14 18:06:30,055, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:30,055, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:30,055, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:30,055, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:30,055, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:30,055, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:30,055, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:30,055, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:30,055, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:30,055, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:38,855, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:06:38,855, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:06:38,855, INFO, List(s) from the "main" list
+2023-11-14 18:06:38,855, INFO, Extraction of sudh successfully done
+2023-11-14 18:06:38,855, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:06:38,855, INFO, Values successfully extracted to the list
+2023-11-14 18:06:38,855, INFO, Elements successfully appended
+2023-11-14 18:06:38,855, INFO, Elements successfully inserted to the list
+2023-11-14 18:06:38,855, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:06:38,855, INFO, Concatenation successfully done
+2023-11-14 18:06:38,855, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:38,855, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:38,856, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:38,856, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:38,856, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:38,856, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:38,856, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:38,856, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:38,856, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:38,856, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:46,910, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:06:46,910, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:06:46,910, INFO, List(s) from the "main" list
+2023-11-14 18:06:46,910, INFO, Extraction of sudh successfully done
+2023-11-14 18:06:46,910, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:06:46,910, INFO, Values successfully extracted to the list
+2023-11-14 18:06:46,910, INFO, Elements successfully appended
+2023-11-14 18:06:46,910, INFO, Elements successfully inserted to the list
+2023-11-14 18:06:46,910, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:06:46,910, INFO, Concatenation successfully done
+2023-11-14 18:06:46,910, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:46,910, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:06:46,910, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:46,910, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:06:46,910, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:46,910, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:06:46,912, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:46,912, INFO, Strings have been converted to lower successfully
+2023-11-14 18:06:46,912, INFO, Strings have been capitalized successfully
+2023-11-14 18:06:46,912, INFO, Strings have been capitalized successfully
+2023-11-14 18:07:49,712, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:07:49,712, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:07:49,712, INFO, List(s) from the "main" list
+2023-11-14 18:07:49,712, INFO, Extraction of sudh successfully done
+2023-11-14 18:07:49,712, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:07:49,712, INFO, Values successfully extracted to the list
+2023-11-14 18:07:49,712, INFO, Elements successfully appended
+2023-11-14 18:07:49,712, INFO, Elements successfully inserted to the list
+2023-11-14 18:07:49,712, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:07:49,712, INFO, Concatenation successfully done
+2023-11-14 18:07:49,713, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:07:49,713, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:07:49,713, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:07:49,713, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:07:49,713, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:07:49,713, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:07:49,713, INFO, Strings have been converted to lower successfully
+2023-11-14 18:07:49,713, INFO, Strings have been converted to lower successfully
+2023-11-14 18:07:49,713, INFO, Strings have been capitalized successfully
+2023-11-14 18:07:49,713, INFO, Strings have been capitalized successfully
+2023-11-14 18:07:49,713, INFO, List(s) from the "main" list
+2023-11-14 18:07:49,713, INFO, List(s) from the "main" list
+2023-11-14 18:07:49,713, INFO, List(s) from the "main" list
+2023-11-14 18:08:26,767, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:08:26,767, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:08:26,767, INFO, List(s) from the "main" list
+2023-11-14 18:08:26,767, INFO, Extraction of sudh successfully done
+2023-11-14 18:08:26,767, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:08:26,767, INFO, Values successfully extracted to the list
+2023-11-14 18:08:26,767, INFO, Elements successfully appended
+2023-11-14 18:08:26,767, INFO, Elements successfully inserted to the list
+2023-11-14 18:08:26,768, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:08:26,768, INFO, Concatenation successfully done
+2023-11-14 18:08:26,768, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:26,768, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:26,768, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:26,768, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:26,768, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:26,768, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:26,768, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:26,768, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:26,768, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:26,768, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:26,768, INFO, List(s) from the "main" list
+2023-11-14 18:08:26,768, INFO, List(s) from the "main" list
+2023-11-14 18:08:26,768, INFO, List(s) from the "main" list
+2023-11-14 18:08:40,825, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:08:40,825, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:08:40,825, INFO, List(s) from the "main" list
+2023-11-14 18:08:40,825, INFO, Extraction of sudh successfully done
+2023-11-14 18:08:40,825, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:08:40,825, INFO, Values successfully extracted to the list
+2023-11-14 18:08:40,825, INFO, Elements successfully appended
+2023-11-14 18:08:40,825, INFO, Elements successfully inserted to the list
+2023-11-14 18:08:40,826, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:08:40,826, INFO, Concatenation successfully done
+2023-11-14 18:08:40,826, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:40,826, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:40,826, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:40,826, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:40,826, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:40,826, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:40,826, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:40,826, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:40,826, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:40,826, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:40,826, INFO, List(s) from the "main" list
+2023-11-14 18:08:40,826, INFO, List(s) from the "main" list
+2023-11-14 18:08:40,826, INFO, List(s) from the "main" list
+2023-11-14 18:08:53,868, INFO, All instances of the 234 accessed successfully.
+2023-11-14 18:08:53,868, INFO, All instances of the 456 accessed successfully
+2023-11-14 18:08:53,868, INFO, List(s) from the "main" list
+2023-11-14 18:08:53,868, INFO, Extraction of sudh successfully done
+2023-11-14 18:08:53,868, INFO, Keys successfully listed to the list_dict_keys
+2023-11-14 18:08:53,868, INFO, Values successfully extracted to the list
+2023-11-14 18:08:53,868, INFO, Elements successfully appended
+2023-11-14 18:08:53,868, INFO, Elements successfully inserted to the list
+2023-11-14 18:08:53,868, INFO, Successful pop at index 4. Popped element: 7
+2023-11-14 18:08:53,868, INFO, Concatenation successfully done
+2023-11-14 18:08:53,868, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:53,868, INFO, Data successfully extracted with the desired jump
+2023-11-14 18:08:53,869, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:53,869, INFO, Data successfully reversed without the reverse function
+2023-11-14 18:08:53,869, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:53,869, INFO, Strings have been successfully spilt and then converted into the uppercase
+2023-11-14 18:08:53,869, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:53,869, INFO, Strings have been converted to lower successfully
+2023-11-14 18:08:53,869, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:53,869, INFO, Strings have been capitalized successfully
+2023-11-14 18:08:53,869, INFO, List(s) from the "main" list
+2023-11-14 18:08:53,869, INFO, List(s) from the "main" list
+2023-11-14 18:08:53,869, INFO, List(s) from the "main" list
