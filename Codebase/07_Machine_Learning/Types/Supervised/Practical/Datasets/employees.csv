@@ -1,0 +1,11 @@
+ID,Name,Department,Salary,Join_Date,Performance_Score
+1,John Doe,Sales,50000,2021-05-10,90
+2,Jane Smith,Engineering,,2021-06-12,85
+3,Bob Johnson,Sales,48000,,88
+4,Alice Brown,Marketing,55000,2020-04-18,
+5,Michael Green,Engineering,62000,2019-08-22,92
+6,Susan Clark,Sales,47000,2022-01-09,81
+7,,Marketing,53000,2021-03-15,76
+8,Emma Davis,Engineering,64000,,89
+9,Liam Wilson,,45000,2020-11-10,82
+10,Sophia Moore,Sales,52000,2021-12-05,
