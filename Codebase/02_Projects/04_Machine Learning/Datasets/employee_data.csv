@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Start_Date,Bonus
+Alice,25,HR,50000,2022-01-15,5000
+Bob,35,IT,70000,2021-05-20,
+Charlie,,Finance,,2020-08-01,4500
+David,45,IT,80000,,7000
+Eve,29,Marketing,55000,2023-03-10,
+Frank,50,Sales,65000,2019-11-25,8000
+Grace,,HR,52000,2023-06-15,
+Helen,40,Finance,72000,2018-04-01,6000
+Ian,28,Marketing,,2022-12-11,3000
+Julia,32,Sales,75000,2017-09-05,
